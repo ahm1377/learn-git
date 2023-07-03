@@ -1,3 +1,5 @@
 the first edit
 sec edit 
-new 3th edit  
+3edited
+4 line edited 
+for learn git   
